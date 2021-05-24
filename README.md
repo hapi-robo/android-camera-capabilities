@@ -1,4 +1,4 @@
-# Android Camera Capbilities
+# Android Camera Capabilities
 Checks camera capabilities.
 
 ## Reference
